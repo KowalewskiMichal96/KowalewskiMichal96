@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hello, I'm michael. I am a 3rd year computer science student at the faculty of mathematics and computer science. I really enjoy spending my time learning programming. You can find me on [![LinkedIn][3.2]][3].
+Hello, I'm michael. I am a 3rd year computer science student at the faculty of mathematics and computer science. I really enjoy spending my time learning programming. You can find me on [![LinkedIn][2.2]][2].
 
 <!-- Icons -->
 [2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
