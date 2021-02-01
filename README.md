@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 Hello, I'm michael. I am a 3rd year computer science student at the faculty of mathematics and computer science. I really enjoy spending my time learning programming. You can find me on [![LinkedIn][2.2]][2].
 
@@ -8,6 +8,12 @@ Hello, I'm michael. I am a 3rd year computer science student at the faculty of m
 <!-- Links to your social media accounts -->
 [2]: https://www.linkedin.com/in/michał-kowalewski-0635b61ba/
 
+## Skills and Experience
+* C#
+* C++
+* CSS
+* HTML
+* SQL
 
 <!--
 **KowalewskiMichal96/KowalewskiMichal96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
