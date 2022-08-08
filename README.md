@@ -13,7 +13,7 @@ Hello, I'm michael. I am a Junior .Net developer. I really enjoy spending my tim
 
 ## Skills
 * C# - LINQ, EF
-* CSS, HTML, BOOTSTRP
+* CSS, HTML, BOOTSTRAP
 * SQL, T-SQL
 
 ## 🌱 I’m currently learning web development
