@@ -8,15 +8,10 @@ Hello, I'm michael. I am a Junior .Net developer. I really enjoy spending my tim
 <!-- Links to your social media accounts -->
 [2]: https://www.linkedin.com/in/kowalewskiMichal96/
 
-## Experience
-* A YEAR OF PROGRAMMING IN LSI SOFTWARE
-
 ## Skills
 * C# - LINQ, EF
 * CSS, HTML, BOOTSTRAP
 * SQL, T-SQL
-
-## 🌱 I’m currently learning web development
 
 <!--
 **KowalewskiMichal96/KowalewskiMichal96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
